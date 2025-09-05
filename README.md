@@ -32,7 +32,7 @@ git clone https://github.com/yourusername/pokemon-ev-counter.git
 
 cd pokemon-ev-counter
 
-pip install -r requirements.txt
+
 
 
 
