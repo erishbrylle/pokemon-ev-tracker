@@ -28,9 +28,7 @@ Supports up to 3 Pokémon at a time, dynamic colored progress bars, and remainin
 
 ```bash
 
-git clone https://github.com/yourusername/pokemon-ev-counter.git
-
-cd pokemon-ev-counter
+git clone https://github.com/erishbrylle/pokemon-ev-tracker
 
 
 
